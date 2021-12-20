@@ -41,9 +41,7 @@ class Program {
               } else {
                   left += 1
               }
-              
           }
-          
       }
       
       
